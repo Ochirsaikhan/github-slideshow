@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Nyama ynkhan
+Gang gang
 Use the left arrow to go back!
